@@ -19,7 +19,7 @@
 
 修复小米运动修改步数之后不同步到微信（github 的 actions 的执行时间为 UTC 0 时区，请参考下方[定时执行](#定时执行)自行更改）
 
-个人收集并适配 Github Actions 的各类签到大杂烩
+个人收集并适配 Github Actions 的各类签到大杂烩 
 
 (签到项目备份，自用，加入了 cqhttp 通知，修复 b 站签到报错，原作者主页地址：https://github.com/BlueSkyClouds)
 
